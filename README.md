@@ -1,4 +1,4 @@
-# Vibecoding Setup
+# MGD AI Skill
 
 Ein kleiner, sicherer Einrichtungs-Assistent für den MGD-Vibe-Coding-Workflow.
 Er installiert ausgewählte öffentliche MIT-Skills für ChatGPT Codex, Claude Code

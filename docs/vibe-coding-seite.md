@@ -9,7 +9,7 @@ dokumentieren, dass der nächste Mensch oder Agent direkt weiterarbeiten kann.
 **Die Regel:** Erst verstehen. Dann ändern. Danach beweisen, was wirklich
 funktioniert.
 
-**Startpunkt:** [Vibecoding Setup auf GitHub](https://github.com/MichaelGahnDESIGN/MGD_Vibecoding_Setup_SKILL)
+**Startpunkt:** [MGD AI Skill auf GitHub](https://github.com/MichaelGahnDESIGN/MGD_AI_Skill)
 
 ---
 
@@ -104,7 +104,7 @@ Lizenz, Kosten, Zielpfad und eventuelle Hooks prüfen.
 
 ## In zehn Minuten startklar
 
-1. Öffne das [Vibecoding-Setup](https://github.com/MichaelGahnDESIGN/MGD_Vibecoding_Setup_SKILL).
+1. Öffne den [MGD AI Skill](https://github.com/MichaelGahnDESIGN/MGD_AI_Skill).
 2. Führe zuerst den Trockenlauf für deinen Agenten aus:
 
 ```bash

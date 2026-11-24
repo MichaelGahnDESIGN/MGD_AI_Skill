@@ -1,9 +1,9 @@
 ---
-name: vibecoding-setup
-description: Richtet ausgewählte öffentliche MGD-Skills für ChatGPT Codex, Claude Code oder kompatible Agenten kontrolliert ein. Verwenden, wenn ein Projektteam den Vibe-Coding-Workflow erstmals installieren oder nachvollziehbar ergänzen möchte.
+name: mgd-ai-skill
+description: Richtet ausgewählte öffentliche MGD-Skills für ChatGPT Codex, Claude Code oder kompatible Agenten kontrolliert ein. Verwenden, wenn ein Projektteam den MGD-AI-Workflow erstmals installieren oder nachvollziehbar ergänzen möchte.
 ---
 
-# Vibecoding Setup
+# MGD AI Skill
 
 Richte nur die Skills ein, die zur Aufgabe passen. Dieser Skill installiert weder
 Programme noch Abhängigkeiten und führt keinen Code aus den geklonten Quellen aus.
